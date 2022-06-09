@@ -1,6 +1,7 @@
 # CoolGDevs-connect
 
 This repository was made for the Lost Relic Games - GAME JAM held on June 10th, 2022
+
 Theme: Connect
 https://itch.io/jam/lost-relic-games-1
 
